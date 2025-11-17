@@ -1,0 +1,27 @@
+1. Create a registration form with fields for name, email, password, and a submit 
+button. 
+2. Design a contact us form that includes text fields, a dropdown for subject, and a 
+textarea for message. 
+3. Create a simple webpage layout using <header>, <nav>, <main>, <aside>, and 
+<footer> tags. 
+4. Build a product listing page that displays three products with images, titles, prices, 
+and “Buy Now” buttons. 
+5. Create an HTML table that displays student information — name, age, grade, and 
+marks. 
+6. Make a login form that includes username, password, and a “Remember Me” 
+checkbox. 
+7. Create a survey form with radio buttons and checkboxes for user preferences (e.g., 
+favorite color, hobbies). 
+8. Design a portfolio page with sections for About Me, Projects, and Contact Info. 
+9. Build a navigation bar with links to Home, About, Services, and Contact pages. 
+10. Create a recipe page that includes a title, ingredients list, preparation steps, and an 
+image. 
+11. Make a responsive image gallery using multiple <img> tags arranged neatly in rows 
+and columns. 
+12. Create a feedback form that asks users to rate a service from 1–5 and leave a 
+comment. 
+13. Design a simple landing page with a headline, short description, and a “Sign Up” 
+button. 
+14. Build a newsletter subscription form with an email input and a subscribe button. 
+15. Create a resume page that includes personal info, education, skills, and contact 
+details.
